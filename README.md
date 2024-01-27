@@ -1,6 +1,4 @@
 Hi, my name is Daniel Soto Solórzano 🐧
---------------------
-
 Full Stack Developer
 
 --------------------
