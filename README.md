@@ -2,7 +2,6 @@ Hi, my name is Daniel Soto Solórzano 🐧
 =============================================================================================================================================
 
 Full Stack Developer
-
 --------------------
 
 I'm a 18y/o software engineer from Costa Rica, currently learning about machine learning, data analisys and more! I love coding and everything related to it
