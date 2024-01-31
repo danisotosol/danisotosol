@@ -6,6 +6,7 @@ Full Stack Developer
 
 I'm a 18y/o software engineer from Costa Rica, currently learning about machine learning, data analisys and more! I love coding and everything related to it
 
+* 💼  Currently working in two projects with React and more technologies
 * ✉️  You can contact me at [danielsotosolorzano@outlook.com](mailto:danielsotosolorzano@outlook.com)
 * 🧠  I'm learning Machine Learning ! Datacamp
 
