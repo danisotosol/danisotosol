@@ -14,6 +14,6 @@
 ```
   <div/>
     <p align="center">
-            <img src="https://skillicons.dev/icons?i=js, py, svelte, react, postgres, java, git, npm, mongodb" />
+    (https://skillicons.dev/icons?i=js, py, svelte, react, postgres, java, git, npm, mongodb&perline=3)(https://skillicons.dev)
     </p>
   </div>
