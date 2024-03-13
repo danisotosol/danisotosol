@@ -11,12 +11,9 @@
 . NodeJS
 . MongoDB
 
-. +more
+- +more
+
 ```
-  <div/>
-    <p align="center">
-    ```md
-    [![My Skills](https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb&perline=3)](https://skillicons.dev)
-    ```
-    </p>
-  </div>
+```md
+[![My Skills](https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb&perline=3)](https://skillicons.dev)
+```
