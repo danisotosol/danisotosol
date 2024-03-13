@@ -1,7 +1,9 @@
 <h1 align="center">Daniel Soto Sol 🪬</h1>
-<p align="center">fullstack developer - software engineer
+<h3 align="center">fullstack developer - software engineer</h3>
 
-I'm a 18y/o software engineer from Costa Rica, currently learning about machine learning, data analisys and more! I love coding and everything related to it
+<p>
+    I'm a 18y/o software engineer from Costa Rica, currently learning about machine learning, data analysis and more! I love coding and everything related to it
+</p>
 
 ```diff
 + what do i work with
@@ -13,7 +15,7 @@ I'm a 18y/o software engineer from Costa Rica, currently learning about machine 
 . NodeJS
 . MongoDB
 
-- + more
+- and more...
 
 ```
 <p align="center">
