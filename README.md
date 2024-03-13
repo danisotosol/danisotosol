@@ -14,7 +14,8 @@
 - +more
 
 ```
-```md
-[![My Skills](https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb)](https://skillicons.dev)
-```
-[![My Skills](https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
