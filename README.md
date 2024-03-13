@@ -15,6 +15,6 @@
 
 ```
 ```md
-[![My Skills](https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb)](https://skillicons.dev)
 ```
-[![My Skills](https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb)](https://skillicons.dev)
