@@ -20,6 +20,6 @@
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb,astro" />
   </a>
 </p>
