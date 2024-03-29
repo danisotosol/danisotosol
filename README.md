@@ -19,7 +19,7 @@
 
 ```
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://danisotosol.me">
     <img src="https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb,astro" />
   </a>
 </p>
