@@ -2,7 +2,7 @@
 <h3 align="center">fullstack developer - software engineer</h3>
 
 <p>
-    I'm a 18y/o software engineer from Costa Rica, currently learning about machine learning, data analysis and more! I love coding and everything related to it
+    I'm a 18y/o software engineer from Costa Rica, currently learning about machine learning, data analysis and more! I love coding and everything related to it (currently learning rust) 
 </p>
 
 ```diff
@@ -20,6 +20,6 @@
 ```
 <p align="center">
   <a href="https://danisotosol.me">
-    <img src="https://skillicons.dev/icons?i=js,py,svelte,react,postgres,java,git,npm,mongodb,astro" />
+    <img src="https://skillicons.dev/icons?i=js,py,rust, svelte,react,postgres,java,git,npm,mongodb,astro" />
   </a>
 </p>
